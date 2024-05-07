@@ -12,13 +12,13 @@ If you are using full dataset or its parts you must give appropriate credit, pro
 Data is sourced from content pages of 2477 issues of six Soviet ‘thick’ (literary) journals spanning 35 years of the Soviet rule, 1956-1990: Novy Mir (New World), Iunost' (The Youth), Zvezda (The Star), Znamya (The Banner), Nash Sovremennik (Our Contemporary), Oktyabr' (October). 
 Of the six journals, only two - Novy Mir and Zvezda - have accessible digitalized archives. The data for the other four journals was collected and coded manually. 
 
-First names were standardized and checked manually (e.g. Евтушенко Е., Евтушенко Евг., Евтушенко Евген. - all coded as Евтушенко Евгений), and controlled for the possibility of full homonyms. Cases of potential homonyms (i.e. Pavlenko Pavel vs. Pavlenko P.) were assigned the same ID only in cases where genre, period, and journal were coherent or/and the title of work could be reliably attributed to an identifiable author.   
+First names are standardized (e.g. Евтушенко Е., Евтушенко Евг., Евтушенко Евген. - all coded as Евтушенко Евгений), and controlled for the possibility of full homonyms. Cases of potential homonyms (i.e. Pavlenko Pavel vs. Pavlenko P.) were assigned the same ID only in cases where genre, period, and journal were coherent and/or the title of work could be reliably attributed to the author.   
 
-Gender identification ('gender') is the function of Russian (and some Slavic) last name endings and first names conventions. Instances where neither last name nor first name was informative are marked as 'NA'. 
+Gender identification ('gender') is the function of Russian (and some Slavic) last name endings and first names conventions. Instances of gender ambiguous morphological structure of first or last names are marked as 'NA'. 
 
 Years of birth ('DOB_year') and death ('DOD_year') were sourced from various online and print sources (e.g. literary encyclopedias) and matched with the dataset on last and first names. Cases of unknown years as well as cases where attribution could not be established with certainty are marked as 'NA'. 
 
-The information on membership in the Communist Party came from the lists of Party Members and then matched by last and first names, and active years. The Party membership information is incomplete due to incompleteness of lists of party members in general and discrepancies in the naming standards within various lists. 
+The information on membership in the Communist Party came from the lists of Party Members and then matched by last and first names, as well as active years. The Party membership information is incomplete due to incompleteness of lists of party members in general and discrepancies in the naming standards within various lists. 
 
 Information about state awards (Stalin, Lenin and State Prizes) was sourced from publicly available lists of awards' recipients and then matched with the dataset by last and first names. 
 
