@@ -5,7 +5,7 @@
 ## Author
 Daria Franklin 
 ## Attribution 
-If you are using full dataset or its parts you must give appropriate credit, provide a link to the dataset, and indicate if changes were made.
+If you are using full dataset or its parts you must give appropriate credit, provide a link to the dataset, and indicate if changes were made. Use 'Cite this repository' option for appropritate citation. 
 
 ## DATA SOURCES 
 
