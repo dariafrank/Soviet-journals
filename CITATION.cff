@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Franklin"
+  given-names: "Daria"
+title: "Soviet Journals Content and Authors, 1956-1990"
+version: 1.0.0
+date-released: 2024-05-07
+url: "https://github.com/dariafrank/Soviet-journals"
