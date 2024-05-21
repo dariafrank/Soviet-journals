@@ -6,6 +6,8 @@
 Daria Franklin 
 ## Attribution 
 If you are using full dataset or its parts you must give appropriate credit, provide a link to the dataset, and indicate if changes were made. Use 'Cite this repository' option for appropritate citation. 
+## Reporting Errors 
+The data was collected and coded manually. Please report any errors on GitHub or via email d.franklin@columbia.edu. 
 
 ## DATA SOURCES 
 
@@ -26,9 +28,10 @@ Circulation size is denoted for the issues where it is known and estimated for m
 
 
 ## CODING SPECIFICATIONS 
+Please refer to documenation on variables for coding specifications and values.
 
 ### Author ID ('author_id') 
-Each unique author has a randomly assigned ID. Groups of authors ('author group') and editorials ('editors editors') are marked as '1' and '2' respectively. 
+Each unique author has a randomly assigned ID. Groups of authors ('author group') and editorials ('editors editors') are marked as '1' and '2' respectively. Groups of authors don't contain details of individual contributors. 
 
 ### Type ('type') 
 This variable approximates the original section in which publication appeared. E.g. povest' (повесть) - novella; publicistika (публицистика) - essay; etc. 
