@@ -28,7 +28,7 @@ Circulation size is denoted for the issues where it is known and estimated for m
 
 
 ## CODING SPECIFICATIONS 
-Please refer to documenation on variables for coding specifications and values.
+For coding specifications and detailed explanation of values please refer to the documenation on variables.
 
 ### Author ID ('author_id') 
 Each unique author has a randomly assigned ID. Groups of authors ('author group') and editorials ('editors editors') are marked as '1' and '2' respectively. Groups of authors don't contain details of individual contributors. 
