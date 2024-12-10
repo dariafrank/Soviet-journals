@@ -40,7 +40,7 @@ Each published title has a randomly assigned ID. Unique 'title_id' is assined to
 2) one publication by two authors in one issue of one journal 
   - Pavlov P., "Svet", Novy Mir, issue 3, 1958 (title_ID is 33)
   - Komarov T., "Svet", Novy Mir, issue 3, 1958 (title_ID is 33)
-Note: publications authored by three or more authors are marked as "grouped authors"
+_Note: publications authored by three or more authors are marked as "grouped authors"_
 3) one publication by one author in two or more issues of the journal
   - Pavlov P., "Svet", Novy Mir, issue 3, 1958 (title_ID is 33)
   - Pavlov P., "Svet", Novy Mir, issue 4, 1958 (title_ID is 33)
